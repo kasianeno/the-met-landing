@@ -1,7 +1,7 @@
 - [DEMO LINK](https://kasianeno.github.io/the-met-landing/)
 - [DESIGN](https://www.figma.com/design/lSR1m42L9YwzQwzzxKwHpw/THE-MET?node-id=8590-29&node-type=CANVAS&t=mJk9HzOOhSmnpFpE-0)
 
-<strong>DESCRIPTION</strong>
+<u><strong>DESCRIPTION</strong></u>
 
 Creating a well-crafted HTML/CSS landing page project is an essential exercise for web developers, combining fundamental web development skills to create a visually appealing and functional web page. This project typically involves designing a single-page website that serves as the first impression for visitors, showcasing a product, service, or personal brand. 
 
