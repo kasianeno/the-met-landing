@@ -1,1 +1,1 @@
-[DEMO LINK]((https://kasianeno.github.io/the-met-landing/))
+[DEMO LINK][https://kasianeno.github.io/the-met-landing/])
