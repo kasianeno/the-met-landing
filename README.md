@@ -12,7 +12,7 @@ In terms of CSS, i desided to use SCSS preprocessor for minimalize code length, 
 Overall, that landing page project is an opportunity to demonstrate my skills in creating a user-friendly and aesthetically pleasing web experience, with a focus on effective information acquisition and user engagement.
 
 
-In this project, i used the following technologies:
+<h2>In this project, i used the following technologies:</h2>
 <ol>
   <li>HTML5: For structuring the content of the landing page, including headings, sections, buttons, and links.</li>
   <li>CSS3: To style and layout the page, ensuring a visually appealing design with colors, fonts, and responsive behavior.</li>
