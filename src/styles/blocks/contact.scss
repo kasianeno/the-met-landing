@@ -30,6 +30,7 @@
     @include onTablet {
       grid-column: 1 / 4;
     }
+    
     @include onDesktop {
       grid-column: 4 / 7;
     }
