@@ -10,3 +10,15 @@ That landing page is responsive, ensuring it looks good on various devices like 
 In terms of CSS, i desided to use SCSS preprocessor for minimalize code length, use mixins for device adaptabillity and make css files be more clear. The project will involve using various styling techniques such as flexbox or grid layouts to arrange content, hover effects for interactive elements, and transitions or transformations to add dynamic aspects to the page. The use of consistent color schemes, typography, and imagery will also play a crucial role in maintaining brand identity and ensuring a cohesive design.
 
 Overall, that landing page project is an opportunity to demonstrate my skills in creating a user-friendly and aesthetically pleasing web experience, with a focus on effective information acquisition and user engagement.
+
+
+In this project, i used the following technologies:
+<ol>
+  <li>HTML5: For structuring the content of the landing page, including headings, sections, buttons, and links.</li>
+  <li>CSS3: To style and layout the page, ensuring a visually appealing design with colors, fonts, and responsive behavior.</li>
+  <li>SASS: A CSS preprocessor that enhances my CSS with features like variables, nesting, mixins, and partials for better organization and reusability.</li>
+  <li>Flexbox: A CSS layout model used to align and distribute elements within containers, making the page responsive and adaptable to different screen sizes.</li>
+  <li>CSS Grid: Another powerful layout system for creating complex, two-dimensional layouts, ideal for structuring various sections of the landing page.</li>
+  <li>BEM (Block, Element, Modifier): A naming convention for organizing CSS classes to ensure scalability and maintainability of the project’s codebase.</li>
+</ol>
+
