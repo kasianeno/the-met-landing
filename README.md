@@ -22,3 +22,10 @@ Overall, that landing page project is an opportunity to demonstrate my skills in
   <li>BEM (Block, Element, Modifier): A naming convention for organizing CSS classes to ensure scalability and maintainability of the project’s codebase.</li>
 </ol>
 
+<h2>How to run project locally:</h2>
+<ol>
+  <li>Clone repository using Git</li>
+  <li>Open your terminal</li>
+  <li>Install the standard package manager for Node.js. typing in terminal <b>npm i</b></li>
+  <li>Type <b>npm start</b> to run project locally.</li>
+</ol>
