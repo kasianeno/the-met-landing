@@ -26,6 +26,6 @@ Overall, that landing page project is an opportunity to demonstrate my skills in
 <ol>
   <li>Clone repository using Git</li>
   <li>Open your terminal</li>
-  <li>Install the standard package manager for Node.js. typing in terminal <b>npm i</b></li>
+  <li>Install the standard package manager for Node.js using <b>npm i</b></li>
   <li>Type <b>npm start</b> to run project locally.</li>
 </ol>
